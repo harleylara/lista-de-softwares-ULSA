@@ -7,6 +7,7 @@
 ## Ofimática
 - [Google Docs](https://www.google.com/docs/about/) (Alternativa MS Office)
 - Extensión para usar Google Docs sin internet [link](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi)
+- [Office Online](https://www.office.com/) (Solo necesitas una cuenta de Outlook)
 - [LibreOffice](https://www.libreoffice.org/) (Alternativa MS Office)
 
 ## PDF
@@ -24,9 +25,10 @@
 ## Compresores de archivos
 - [7-zip](https://www.7-zip.org/)
 
-## Matemática
+## Matemática y Estadística
 - [Wolfram Alpha](https://www.wolframalpha.com/) (Página Web, util para otras areas)
-- [GNU Octave](https://www.gnu.org/software/octave/) (Alternativa a MATLAB) 
+- [GNU Octave](https://www.gnu.org/software/octave/) (Alternativa a Matlab)
+- [R Project](https://www.r-project.org/)
 - más [aquí](https://en.wikipedia.org/wiki/List_of_open-source_software_for_mathematics)
 
 ## IDEs y Editores (Entornos Integrados de Programación)
@@ -86,6 +88,7 @@
 - [RobotStudio](https://new.abb.com/products/robotics/robotstudio)
 - [LabVIEW](https://www.ni.com/es-es/shop/labview.html)
 - [Proteus](https://www.labcenter.com/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
 
 ## Crear Wikis y documentación
 - [GitBook](https://www.gitbook.com/)
@@ -98,6 +101,7 @@
 - [Meet](https://meet.google.com/)
 - [Skype](https://www.skype.com/en/)
 - [Hangout](https://hangouts.google.com/)
+- [Jitsi](https://jitsi.org/)
 
 ## Escritorios remotos
 - [TightVNC](https://www.tightvnc.com/)
