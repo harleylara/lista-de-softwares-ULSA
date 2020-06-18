@@ -117,14 +117,25 @@
 
 ## Diseño Gráfico
 - [GIMP](https://www.gimp.org/) (Alternativa a Photoshop)
+- [Photopea](https://www.photopea.com/) (Alternativa Online a Photoshop)
 - [Inkscape](https://inkscape.org/) (Alternativa a Illustrator)
 - [Krita](https://krita.org/en/)
 - [Scribus](https://www.scribus.net/) (Alternativa InDesign)
 
-## Edición de Video
+## Edición y captura de Video
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [Kdenlive](https://kdenlive.org/en/)
 - [OBS](https://obsproject.com/) (no es editor, pero permite grabación de pantalla y algunas cosas más)
 
-## Edición de Audio
+## Edición y grabación de Audio
 - [Audacity](https://www.audacityteam.org/)
+- [Voicemeeter](https://www.vb-audio.com/Voicemeeter/index.htm) (Conector de Audio Virtual)
+
+## Plataforma de código creativo
+- [openFrameworks](https://openframeworks.cc/)
+- [Sonic Pi](https://sonic-pi.net/)
+- [https://derivative.ca/](https://derivative.ca/)
+- [Processing](https://processing.org/)
+- [p5](https://p5js.org/)
+- [Pure Data](https://puredata.info/)
+- [DevArt](https://devart.withgoogle.com/) (Galeria de Projectos BY Google)
