@@ -104,6 +104,7 @@
 - [Jitsi](https://jitsi.org/)
 
 ## Escritorios remotos
+- [Google Remote Desktop](https://remotedesktop.google.com/)
 - [TightVNC](https://www.tightvnc.com/)
 - [noVNC](https://novnc.com/info.html)
 
