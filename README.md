@@ -79,6 +79,7 @@
 ## Circuitos eléctricos
 - [EAGLE Autodesk for students](https://www.autodesk.com/education/free-software/eagle) (Alternativa a Proteus)
 - [KiCAD](https://www.kicad-pcb.org/)
+- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 - [Fritzing](https://fritzing.org/home/) (no realiza simulación)
 - más [aquí](https://en.wikipedia.org/wiki/Comparison_of_EDA_software)
 
