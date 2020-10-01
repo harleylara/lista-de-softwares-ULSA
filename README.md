@@ -121,6 +121,7 @@
 - [GIMP](https://www.gimp.org/) (Alternativa a Photoshop)
 - [Photopea](https://www.photopea.com/) (Alternativa Online a Photoshop)
 - [Inkscape](https://inkscape.org/) (Alternativa a Illustrator)
+- [yEd - Graph Editor](https://www.yworks.com/products/yed) (programa de diagramación de propósito general)
 - [Krita](https://krita.org/en/)
 - [Scribus](https://www.scribus.net/) (Alternativa InDesign)
 
